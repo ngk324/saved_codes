@@ -1,0 +1,10 @@
+formatSpec = '%f';
+before = zeros(100,1);
+after = zeros(100,1);
+
+fileB = strcat('results/weights/1/1_0-3.txt');
+fid = fopen(fileB);
+before = fscanf(fid,formatSpec);
+close(fid);
+
+plot(before);

@@ -1,0 +1,180 @@
+
+
+Probability P:0.05
+
+Initial Avg:17.254
+After Avg:7.0855
+% Decrease Avg:0.55591
+Initial Var:34.3661
+After Var:0.9377
+
+
+Probability P:0.1
+
+Initial Avg:23.2842
+After Avg:8.3935
+% Decrease Avg:0.59209
+Initial Var:121.192
+After Var:2.8131
+
+
+Probability P:0.15
+
+Initial Avg:30.9296
+After Avg:10.0348
+% Decrease Avg:0.62848
+Initial Var:238.4812
+After Var:8.1402
+
+
+Probability P:0.2
+
+Initial Avg:41.1855
+After Avg:12.7128
+% Decrease Avg:0.66206
+Initial Var:360.1405
+After Var:23.5612
+
+
+Probability P:0.25
+
+Initial Avg:52.9243
+After Avg:16.5195
+% Decrease Avg:0.67049
+Initial Var:540.6696
+After Var:60.1289
+
+
+Probability P:0.3
+
+Initial Avg:60.6144
+After Avg:20.2842
+% Decrease Avg:0.6526
+Initial Var:584.6838
+After Var:89.3472
+
+
+Probability P:0.35
+
+Initial Avg:70.6063
+After Avg:25.7677
+% Decrease Avg:0.6273
+Initial Var:740.0484
+After Var:156.4258
+
+
+Probability P:0.4
+
+Initial Avg:79.4778
+After Avg:31.029
+% Decrease Avg:0.59813
+Initial Var:775.9351
+After Var:172.0517
+
+
+Probability P:0.45
+
+Initial Avg:83.4964
+After Avg:37.4321
+% Decrease Avg:0.54194
+Initial Var:745.9559
+After Var:250.251
+
+
+Probability P:0.5
+
+Initial Avg:88.1914
+After Avg:44.3524
+% Decrease Avg:0.48693
+Initial Var:709.5705
+After Var:281.7703
+
+
+Probability P:0.55
+
+Initial Avg:89.9717
+After Avg:51.1258
+% Decrease Avg:0.41962
+Initial Var:697.2586
+After Var:313.6315
+
+
+Probability P:0.6
+
+Initial Avg:91.0979
+After Avg:56.8499
+% Decrease Avg:0.36279
+Initial Var:586.4376
+After Var:282.3098
+
+
+Probability P:0.65
+
+Initial Avg:91.0279
+After Avg:63.0532
+% Decrease Avg:0.29708
+Initial Var:456.511
+After Var:250.3851
+
+
+Probability P:0.7
+
+Initial Avg:91.0064
+After Avg:67.247
+% Decrease Avg:0.25193
+Initial Var:405.3762
+After Var:230.0922
+
+
+Probability P:0.75
+
+Initial Avg:92.4339
+After Avg:72.6503
+% Decrease Avg:0.20507
+Initial Var:356.4154
+After Var:177.6912
+
+
+Probability P:0.8
+
+Initial Avg:91.6164
+After Avg:75.7283
+% Decrease Avg:0.16836
+Initial Var:279.9795
+After Var:157.5911
+
+
+Probability P:0.85
+
+Initial Avg:93.2557
+After Avg:78.484
+% Decrease Avg:0.15344
+Initial Var:259.8921
+After Var:142.0279
+
+
+Probability P:0.9
+
+Initial Avg:92.4402
+After Avg:79.3209
+% Decrease Avg:0.13703
+Initial Var:258.3833
+After Var:134.321
+
+
+Probability P:0.95
+
+Initial Avg:93.3679
+After Avg:80.4577
+% Decrease Avg:0.13453
+Initial Var:213.6589
+After Var:118.0859
+
+
+Probability P:1
+
+Initial Avg:93.8141
+After Avg:80.8749
+% Decrease Avg:0.13319
+Initial Var:250.1846
+After Var:128.1052

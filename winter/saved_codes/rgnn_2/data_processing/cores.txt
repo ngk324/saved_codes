@@ -1,0 +1,22 @@
+68
+102
+93
+59
+86
+56
+56
+75
+86
+72
+70
+62
+81
+116
+86
+114
+105
+91
+69
+60
+The biggest 2-hop subgraph among all graphs has 1717 edges
+The highest degree of a node among all graphs is 73The test data should have 1700 entries
